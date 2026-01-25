@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Khadija
+## 👋 Hi, I'm Khadija Bouadi
 
 
 Python developer | AI & Mechatronics engineer  
@@ -202,6 +202,7 @@ You can reach me here or through my GitHub profile.
 Email: khadijabouadi00@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/khadija-b-a004373a4/
+
 
 
 
