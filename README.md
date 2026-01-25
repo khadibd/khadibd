@@ -1,10 +1,76 @@
-\# 👋 Hi, I'm Khadija
+## 👋 Hi, I'm Khadija
+
+
+Python developer | AI & Mechatronics engineer  
+I design smart automation systems and AI solutions to enhance industrial efficiency and manufacturing performance.  
+I enjoy solving real-world engineering challenges by combining data-driven intelligence with practical automation techniques. My work focuses on improving processes, reducing downtime, and increasing productivity through innovative technology. I’m passionate about Industry 4.0, predictive maintenance, and creating systems that make factories smarter and more sustainable.
+
+
+---
 
 
 
-I'm a Python developer - AI \& mechatronics engineer.   
+## 🎯 What You Will Find Here
 
-I love building smart solutions using Python, AI, and automation, and I’m passionate about improving manufacturing systems and industrial processes. 
+
+
+### 📌 1. AI \& Machine Learning Projects
+
+- Real-world projects using Python, scikit-learn, TensorFlow, and PyTorch
+
+- Classification, regression, and predictive models
+
+- Time-series analysis and anomaly detection
+
+
+
+### 🤖 2. Reinforcement Learning \& Automation
+
+- Q-learning projects and simulations
+
+- Intelligent agents for decision-making
+
+- Automation projects for industrial systems
+
+
+
+### 🏭 3. Mechatronics \& Industrial Engineering Work
+
+- Industrial automation examples and practical case studies
+
+- Mechanical design and system integration
+
+- Manufacturing process improvement projects
+
+
+
+### 📊 4. Data Science \& Analytics
+
+- Data cleaning, visualization, and reporting
+
+- Advanced Excel and data-driven decision making
+
+- Insights and performance analysis
+
+
+
+### 🤝 5. Collaboration \& Open Source
+
+- Contributions to open-source projects
+
+- Team collaborations on real engineering challenges
+
+- Shared resources, tutorials, and learning notes
+
+
+
+### 🧠 6. Learning Journey
+
+- My progress in AI and Industry 4.0
+
+- New tools and technologies I’m learning
+
+- Notes and mini-projects for personal growth
 
 
 
@@ -12,69 +78,66 @@ I love building smart solutions using Python, AI, and automation, and I’m pass
 
 
 
-\## 🎯 What You Will Find Here
+## 🛠️ Skills
 
 
 
+### 💻 Programming
 
+- Python 
 
-\### 📌 1. AI \& Machine Learning Projects
+- C / C++
 
-\- Real-world projects using Python, scikit-learn, TensorFlow, and PyTorch
-
-\- Classification, regression, and predictive models
-
-\- Time-series analysis and anomaly detection
-
-
-
-\### 🤖 2. Reinforcement Learning \& Automation
-
-\- Q-learning projects and simulations
-
-\- Intelligent agents for decision-making
-
-\- Automation projects for industrial systems
+- MATLAB
 
 
 
-\### 🏭 3. Mechatronics \& Industrial Engineering Work
+### 🤖 AI \& Machine Learning
 
-\- Industrial automation examples and practical case studies
+- Machine Learning (scikit-learn)
 
-\- Mechanical design and system integration
+- Deep Learning (TensorFlow / PyTorch)
 
-\- Manufacturing process improvement projects
+- Reinforcement Learning (Q-learning, etc.)
 
-
-
-\### 📊 4. Data Science \& Analytics
-
-\- Data cleaning, visualization, and reporting
-
-\- Advanced Excel and data-driven decision making
-
-\- Insights and performance analysis
+- Data analysis \& visualization
 
 
 
-\### 🤝 5. Collaboration \& Open Source
+### 🏭 Mechatronics \& Industrial
 
-\- Contributions to open-source projects
+- PLC basics
 
-\- Team collaborations on real engineering challenges
+- Industrial automation
 
-\- Shared resources, tutorials, and learning notes
+- Sensors \& actuators
+
+- Mechanical design \& manufacturing
 
 
+### 🧰 Tools \& Platforms
 
-\### 🧠 6. Learning Journey
 
-\- My progress in AI and Industry 4.0
+- Git & GitHub — Version control, collaboration, and open-source
+- Jupyter Notebook — Data analysis, experimentation, and reporting
+- VS Code — Development environment and debugging
+- PyCharm — Python development and project management
+- MATLAB & Simulink — Modeling, simulation, and control systems
+- Excel (Advanced) — Data processing, dashboards, and reporting
+- Pygame — Game development and visualization projects
+- Google Colab — Cloud-based experiments and model training
 
-\- New tools and technologies I’m learning
 
-\- Notes and mini-projects for personal growth
+---
+
+
+## 🎯 Current Goals
+
+- AI \& automation for industrial systems
+- Generalizing diagnosis models for broader applications.
+- Spreading know-how and promoting digital transformation in the industrial sector through AI.
+- Predictive maintenance and data-driven optimization
+- Building practical, real-world engineering projects
 
 
 
@@ -82,53 +145,13 @@ I love building smart solutions using Python, AI, and automation, and I’m pass
 
 
 
-\## 🛠️ Skills
+## 🔧 I’m Currently Working On
 
-
-
-\### 💻 Programming
-
-\- Python 
-
-\- C / C++
-
-\- MATLAB
-
-
-
-\### 🤖 AI \& Machine Learning
-
-\- Machine Learning (scikit-learn)
-
-\- Deep Learning (TensorFlow / PyTorch)
-
-\- Reinforcement Learning (Q-learning, etc.)
-
-\- Data analysis \& visualization
-
-
-
-\### 🏭 Mechatronics \& Industrial
-
-\- PLC basics
-
-\- Industrial automation
-
-\- Sensors \& actuators
-
-\- Mechanical design \& manufacturing
-
-
-
-\### 🧰 Tools \& Platforms
-
-\- Git / GitHub
-
-\- Pygame
-
-\- Excel (Advanced)
-
-\- MATLAB Simulink
+- Predictive Maintenance using vibration data and machine learning
+- Reinforcement Learning projects 
+- Automation projects for industrial processes
+- Anomaly Detection: Unsupervised and semi-supervised method for the anomaly detection of industrial machinery.
+- LLMs for machine diagnosis and maintenance: Bridging diagnosis and maintenance workflows with LLMs capabilites through Model Context Protocol.
 
 
 
@@ -136,27 +159,15 @@ I love building smart solutions using Python, AI, and automation, and I’m pass
 
 
 
-\## 🎯 Current Goals
+## 🤝 I’m Looking to Collaborate On
 
-* AI \& automation for industrial systems
-* Generalizing diagnosis models for broader applications.
-* Spreading know-how and promoting digital transformation in the industrial sector through AI.
-* Predictive maintenance and data-driven optimization
-* Building practical, real-world engineering projects
+- AI projects related to Industry 4.0
 
+- Robotics \& automation systems
 
+- Data science projects (classification, anomaly detection, time-series)
 
----
-
-
-
-\## 🔧 I’m Currently Working On
-
-* Predictive Maintenance using vibration data and machine learning
-* Reinforcement Learning projects 
-* Automation projects for industrial processes
-* Anomaly Detection: Unsupervised and semi-supervised method for the anomaly detection of industrial machinery.
-* LLMs for machine diagnosis and maintenance: Bridging diagnosis and maintenance workflows with LLMs capabilites through Model Context Protocol.
+- Open-source projects in Python / AI / Mechatronics
 
 
 
@@ -164,33 +175,17 @@ I love building smart solutions using Python, AI, and automation, and I’m pass
 
 
 
-\## 🤝 I’m Looking to Collaborate On
+## 💬 Ask me about
 
-\- AI projects related to Industry 4.0
+- Python programming and automation
 
-\- Robotics \& automation systems
+- AI \& Machine Learning projects
 
-\- Data science projects (classification, anomaly detection, time-series)
+- Reinforcement Learning (Q-learning)
 
-\- Open-source projects in Python / AI / Mechatronics
+- Industrial engineering \& mechatronics
 
-
-
----
-
-
-
-\## 💬 Ask me about
-
-\- Python programming and automation
-
-\- AI \& Machine Learning projects
-
-\- Reinforcement Learning (Q-learning)
-
-\- Industrial engineering \& mechatronics
-
-\- Predictive maintenance and data analysis
+- Predictive maintenance and data analysis
 
 
 
@@ -198,7 +193,7 @@ I love building smart solutions using Python, AI, and automation, and I’m pass
 
 
 
-\## 📫 Contact
+## 📫 Contact
 
 You can reach me here or through my GitHub profile.
 
@@ -207,10 +202,6 @@ You can reach me here or through my GitHub profile.
 Email: khadijabouadi00@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/khadija-b-a004373a4/
-
-
-
----
 
 
 
