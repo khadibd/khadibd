@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Khadija Bouadi
 
 
-Python developer | AI & Mechatronics engineer  
+Mechatronics engineer  
 I design smart automation systems and AI solutions to enhance industrial efficiency and manufacturing performance.  
 I enjoy solving real-world engineering challenges by combining data-driven intelligence with practical automation techniques. My work focuses on improving processes, reducing downtime, and increasing productivity through innovative technology. I’m passionate about Industry 4.0, predictive maintenance, and creating systems that make factories smarter and more sustainable.
 
